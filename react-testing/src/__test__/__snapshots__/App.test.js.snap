@@ -7,7 +7,7 @@ exports[`Changing our button name to Hide toggle the button 1`] = `
   <button
     onClick={[Function]}
   >
-    Show
+    Hide
   </button>
 </div>
 `;
@@ -19,7 +19,7 @@ exports[`My first snapshot test testing app button 1`] = `
   <button
     onClick={[Function]}
   >
-    Show
+    Hide
   </button>
 </div>
 `;

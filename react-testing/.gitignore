@@ -21,3 +21,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/Users/orhankalayci/temp/react/react-test/react-testing/src/__test__/__snapshots__/App.test.js.snap 
