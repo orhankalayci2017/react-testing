@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div className="App">
         <button onClick={this.handleClick}>
-          {this.props.show ? "Hide" : "Show"}
+          {this.props.show ? "Show" : "Hide"}
         </button>
       </div>
     );
