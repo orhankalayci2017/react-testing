@@ -1,0 +1,19 @@
+name: docker test
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: self-hosted
+
+    steps:
+
+    - name: docker test
+      run: |
+        docker run hello-world
+        docker ps
